@@ -1,6 +1,10 @@
 # Semestrální práce k předmětu PDO
 
-- Cílová osoba: 
+- Cílová skupina osob: Hobby hostitel vlastního "chatGPT" podomácku
+
+
+## Osnova dokumentace
+
 
 # LM Studio
 
