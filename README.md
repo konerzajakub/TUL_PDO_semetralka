@@ -1,3 +1,11 @@
 # Semestrální práce k předmětu PDO
 
-- Téma: ehhhhhh
+# LM Studio
+
+## K čemu je?
+
+## Funkce
+
+## Layout
+
+## Užití
