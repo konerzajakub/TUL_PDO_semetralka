@@ -1,7 +1,10 @@
 # Semestrální práce k předmětu PDO
 
-- Cílová skupina osob: Hobby hostitel vlastního "chatGPT" podomácku, kuchař
+## Cílová skupina osob
 
+- macOS uživatel
+- Windows uživatel
+- Tvůrce receptů na vaření
 
 ## Osnova dokumentace
 
