@@ -6,10 +6,11 @@
 - Windows uživatel
 - Tvůrce receptů na vaření
 
-## Osnova dokumentace
 
 
-# LM Studio
+# Tvůrce receptů na vaření
+
+## LM Studio
 LM Studio je nástroj pro práci s lokálními jazykovými modely. Umožňuje správu a použití různých modelů AI bez nutnosti připojení k internetu.
 
 ## Hlavní Funkce
@@ -56,4 +57,9 @@ V ozubeném kole nahoře lze upravit:
 
 #### Honorable mentions
 - https://lmstudio.ai/docs/app
-- 
+
+
+
+# macOS
+
+# Windows
