@@ -71,6 +71,17 @@ V ozubeném kole nahoře lze upravit:
 
 2. Stáhněte instalační soubor podle vašeho operačního systému.
 3. Spusťte instalační soubor a postupujte podle pokynů.
+
+![Otevření souboru na macOS](macOS_open_file.png)
+
+![Instalace](macOS_install.png)
+
+![Přesun souborů při instalaci](macOS_install_process.png)
+
+![Instalovaná aplikace na macOS](macOS_installed_app.png)
+
+![Spuštěná aplikace na macOS](macOS_launched_app.png)
+
 4. Po instalaci spusťte aplikaci.
 
 ## První spuštění a základní nastavení
