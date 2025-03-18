@@ -66,6 +66,7 @@ V ozubeném kole nahoře lze upravit:
 
 ### Stažení a instalace
 1. Navštivte oficiální web LM Studia: [LM Studio](https://lmstudio.com)
+    - Stránka by měla automaticky rozpoznat váš operační systém a nabídnout vám ho.
 
 ![macOS Download Button](macOS_download_button.png)
 
