@@ -75,6 +75,8 @@ V ozubeném kole nahoře lze upravit:
 
 ![Otevření souboru na macOS](macOS_open_file.png)
 
+4. Přesunutím souboru do složky "Aplikace" provedete instalaci
+
 ![Instalace](macOS_install.png)
 
 ![Přesun souborů při instalaci](macOS_install_process.png)
@@ -83,7 +85,7 @@ V ozubeném kole nahoře lze upravit:
 
 ![Spuštěná aplikace na macOS](macOS_launched_app.png)
 
-4. Po instalaci spusťte aplikaci.
+. Po instalaci spusťte aplikaci.
 
 ## První spuštění a základní nastavení
 
