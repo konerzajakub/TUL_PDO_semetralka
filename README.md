@@ -79,11 +79,15 @@ V ozubeném kole nahoře lze upravit:
 
 <img src="macOS_install.png" alt="Instalace" width="500"/>
 
-<img src="macOS_install_process.png" alt="Přesun souborů při instalaci" width="500"/>
+<img src="macOS_install_process.png" alt="Přesun souborů při instalaci" width="300"/>
 
-<img src="macOS_installed_app.png" alt="Instalovaná aplikace na macOS" width="500"/>
+5. Aplikaci naleznete v Launchpad nebo přimo ve složce "Aplikace"
 
-<img src="macOS_launched_app.png" alt="Spuštěná aplikace na macOS" width="500"/>
+<img src="macOS_installed_app.png" alt="Instalovaná aplikace na macOS" width="300"/>
+
+6. Aplikaci naleznete v Launchpad nebo přimo ve složce "Aplikace"
+
+<img src="macOS_launched_app.png" alt="Spuštěná aplikace na macOS" width="300"/>
 
 . Po instalaci spusťte aplikaci.
 
