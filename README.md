@@ -2,7 +2,7 @@
 
 ---
 
-# Úvod (👨‍🍳 Tvůrce receptů na vaření)
+# Úvod
 
 ## LM Studio
 LM Studio je nástroj pro práci s lokálními jazykovými modely. Umožňuje správu a použití různých modelů AI bez nutnosti připojení k internetu.
