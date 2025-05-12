@@ -5,7 +5,7 @@
 # Úvod
 
 ## LM Studio
-LM Studio je nástroj pro práci s lokálními jazykovými modely. Umožňuje správu a použití různých modelů AI bez nutnosti připojení k internetu.
+LM Studio je nástroj pro práci s lokálními jazykovými modely. Umožňuje správu a použití různých modelů AI na lokálním hardware bez nutnosti připojení k vzdálenému serveru.
 
 ## Hlavní Funkce
  - Stahování modelů
