@@ -28,5 +28,5 @@ LM Studio je nástroj pro práci s lokálními jazykovými modely. Umožňuje sp
 
 ---
 
-#### Pro více informací navštivte tuto webovou stránku:
+#### Pro více informací navštivte webovou stránku:
 - https://lmstudio.ai/docs/app
