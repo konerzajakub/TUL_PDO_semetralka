@@ -7,9 +7,13 @@ Po instalaci můžete aplikaci otevřít kliknutím na ikonu „LM Studio“.
 1. Otevřete záložku "Discover".
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/9a7687df-9d64-4820-9240-3c86608c5b72" /> 
 
+---
+
 2. V doporučení vyberte vámi zvolený model a chtěnou kvantizaci.
 
 ![image](https://github.com/user-attachments/assets/b20dbd9b-76ed-45b4-8db9-cf03f87c7b5c)
+
+---
 
 3. Klikněte na „Stáhnout“ a počkejte na dokončení.
 
@@ -22,9 +26,13 @@ Po instalaci můžete aplikaci otevřít kliknutím na ikonu „LM Studio“.
 
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/ad59406b-22c6-4b9d-8d2a-813197e2a994" />
 
+---
+
 2. Vyberte si místo uložení modelu.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/bad692de-bd3c-4996-b19b-f0b1676c5441" />
+
+---
 
 3. Kliknutím na "Load model" potvrdíte nastavení a načtete jazykový model do paměti.
 
