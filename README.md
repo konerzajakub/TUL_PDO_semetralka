@@ -7,7 +7,7 @@
 ## LM Studio
 LM Studio je nástroj pro práci s lokálními jazykovými modely. Umožňuje správu a použití různých modelů AI na lokálním hardware bez nutnosti připojení k vzdálenému serveru.
 
-## Hlavní Funkce
+## ⚙️ Hlavní funkce
  - Stahování modelů
  - Spouštění různých formátů modelů lokálně
  - Konfigurace možností spuštění
@@ -17,8 +17,11 @@ LM Studio je nástroj pro práci s lokálními jazykovými modely. Umožňuje sp
 
 # 📄 Dokumentace
 
-- 📥 [Stažení a instalace](./installation.md)
-- 🚀 [První spuštění a základní nastavení](./first-run.md)
+- 📥 [Stažení a instalace](./installation.md)  
+  Postup pro stažení a instalaci LM Studio na macOS
+
+- 🚀 [První spuštění a základní nastavení](./first-run.md)  
+  Jak LM Studio poprvé spustit, stáhnout jazykový model, načíst ho a optimalizovat jeho běh
 
 ---
 
