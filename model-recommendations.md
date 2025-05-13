@@ -1,6 +1,6 @@
 # 🚀 Příručka k výběru jazykového modelu
 
-## 🧠 Důležité termíny
+## Důležité termíny
 
 * **GGUF:** Populární formát souborů pro LLM, optimalizovaný pro běh na CPU i GPU.
 * **Kvantizace:** Technika zmenšení modelu useknutím přenosti vah. Výsledkem je zmenšení velikosti za cenu přesnosti.
