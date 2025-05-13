@@ -7,7 +7,7 @@
     * **Typy:** Od `Q2_K` (nejmenší, nejrychlejší, nejnižší kvalita) po `Q8_0` (větší, pomalejší, vyšší kvalita)
     * **Nejvyšší kvalita (`F16`, `F32` - nekvantizované/méně kvantizované):** Tyto modely nabízejí maximální přesnost, ale jsou extrémně náročné.
         * **Požadovaný HW:** Vysoce výkonné GPU s velkou VRAM (např. NVIDIA RTX 4090 s 24GB VRAM, profesionální karty jako NVIDIA A100/H100 s 80GB+ VRAM).
-        * **Pro běžné uživatele:** Řešením může být **pronájem cloudových serverů** (AWS, GCP, Azure)
+        * **Pro běžné uživatele:** Řešením může být pronájem cloudových serverů (AWS, GCP, Azure)
 
 ---
 
