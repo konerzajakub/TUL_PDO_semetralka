@@ -30,10 +30,6 @@ Po instalaci můžete aplikaci otevřít kliknutím na ikonu „LM Studio“.
 
 2. Vyberte si místo uložení modelu.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/bad692de-bd3c-4996-b19b-f0b1676c5441" />
-
----
-
 3. Kliknutím na "Load model" potvrdíte nastavení a načtete jazykový model do paměti.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5c8d35c0-8651-4fe6-8910-74b096a067c2" />
