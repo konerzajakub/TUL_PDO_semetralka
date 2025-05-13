@@ -1,4 +1,4 @@
-# 🚀 Stručný návod pro výběr jazykového modelu
+# 🚀 Příručka k výběru jazykového modelu
 
 ## 🧠 Důležité termíny
 
