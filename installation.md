@@ -5,7 +5,6 @@
 
 <img src="macOS_download_button.png" alt="macOS Download Button" width="500"/>
 
----
 
 2. Stáhněte instalační soubor podle vašeho operačního systému.
 
