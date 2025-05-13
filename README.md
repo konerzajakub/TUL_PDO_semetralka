@@ -24,7 +24,7 @@ LM Studio je nástroj pro práci s lokálními jazykovými modely. Umožňuje sp
   > Jak LM Studio poprvé spustit, stáhnout jazykový model, načíst ho a optimalizovat jeho běh
 
 - 🧠 [Doporučení při výběru jazykových modelů](./model-recommendations.md)  
-  > 📊 Jak vybrat model podle parametrů vašeho počítače
+  > Jak vybrat vhodný jazykový model a jeho kvantizaci
 
 ---
 
