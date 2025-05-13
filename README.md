@@ -18,10 +18,10 @@ LM Studio je nástroj pro práci s lokálními jazykovými modely. Umožňuje sp
 # 📄 Dokumentace
 
 - 📥 [Stažení a instalace](./installation.md)  
-  Postup pro stažení a instalaci LM Studio na macOS
+  > Postup pro stažení a instalaci LM Studio na macOS
 
 - 🚀 [První spuštění a základní nastavení](./first-run.md)  
-  Jak LM Studio poprvé spustit, stáhnout jazykový model, načíst ho a optimalizovat jeho běh
+  > Jak LM Studio poprvé spustit, stáhnout jazykový model, načíst ho a optimalizovat jeho běh
 
 ---
 
